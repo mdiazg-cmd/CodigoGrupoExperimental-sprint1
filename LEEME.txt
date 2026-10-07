@@ -1,0 +1,8 @@
+Grupo 5 - Sprint 1 - Plataforma de solicitudes de soporte
+
+Requisitos: Python 3 y Flask  ->  pip install flask
+Ejecutar:   python app.py   (abre http://127.0.0.1:5000)
+Pruebas:    python pruebas_sprint1.py
+
+Usuarios de prueba (ficticios), clave de todos: Clave123*
+  solicitante1, solicitante2, agente1, coord1, auditor1
